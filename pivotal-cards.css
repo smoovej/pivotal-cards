@@ -184,7 +184,7 @@
  *  cards for story-type
  */
 .bug, .bug .footer {
-	background-color: #d5a086;
+	background-color: #FFF;
 }
 .bug .label {
 	color: #d5a086;
@@ -235,7 +235,7 @@
 }
 
 .feature, .feature .footer {
-	background-color: #c5d0b6;
+	background-color: #FFF;
 }
 .feature .label {
 	color: #c5d0b6;
